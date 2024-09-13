@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="vtipodocumento">
+        <item>DNI</item>
+        <item>CEX</item>
+        <item>PAS</item>
+    </string-array>
+</resources>
